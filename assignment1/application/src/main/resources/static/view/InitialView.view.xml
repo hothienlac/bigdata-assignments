@@ -1,0 +1,13 @@
+<mvc:View controllerName="com.sap.hybris.mkt.client.uiHybrisMktSDK-Client.controller.InitialView" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m" xmlns:core="sap.ui.core">
+    <App id="app">
+        <pages>
+            <Page title="Marketing Contacts">
+                <content>
+                    <FlexBox alignItems="Center" justiContent="Center">
+                        <Text text="{i18n>WelcomeText}"></Text>
+                    </FlexBox>
+                </content>
+            </Page>
+        </pages>
+    </App>
+</mvc:View>
