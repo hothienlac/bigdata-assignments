@@ -1,8 +1,0 @@
-logging:
-  level:
-    edu.ttu.hothienlac: DEBUG
-    com.sap.cloud.sdk: INFO
-    root: WARN
-
-server:
-  port: 8080
